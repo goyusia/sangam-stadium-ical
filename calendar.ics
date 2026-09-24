@@ -844,6 +844,36 @@ URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=
 LOCATION:서울월드컵경기장
 END:VEVENT
 BEGIN:VEVENT
+UID:20260916-931dffa4ca5e2ba082afb0d66964ea55@yourcalendar.com
+DTSTAMP:20250101T000000Z
+DTSTART;TZID=Asia/Seoul:20260916
+DTEND;TZID=Asia/Seoul:20260916
+SUMMARY:26/27 ACL2 FC서울 vs 반둥
+DESCRIPTION:경 기 명 : 26/27 ACL2 FC서울 vs 반둥\n경 기 일 : 2026. 9. 16.(수) 19:00\n경기문의 : FC서울(02.306.5050)\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=09&day=16&site_div=worldcupst
+URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=09&day=16&site_div=worldcupst
+LOCATION:서울월드컵경기장
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-67274557eb9cbb81d242962eb797be46@yourcalendar.com
+DTSTAMP:20250101T000000Z
+DTSTART;TZID=Asia/Seoul:20260923
+DTEND;TZID=Asia/Seoul:20260923
+SUMMARY:2026WK리그
+DESCRIPTION:[2026WK리그]\n대 진 : 서울시청 vs 화천KSPO\n장 소 : 서울월드컵경기장 보조경기장\n시 간 : 16:00 ~ 18:00\n* 축구경기 관련 문의\n- 홈페이지 : 한국여자축구연맹(KWFF)\n- 대표번호 : 02-490-2890\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=09&day=23&site_div=worldcupst
+URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=09&day=23&site_div=worldcupst
+LOCATION:서울월드컵경기장
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-7db91b22e3a109ec69a54ef0951133cd@yourcalendar.com
+DTSTAMP:20250101T000000Z
+DTSTART;TZID=Asia/Seoul:20260928
+DTEND;TZID=Asia/Seoul:20260928
+SUMMARY:남자축구 국가대표팀 친선경기 우루과이전
+DESCRIPTION:경 기명: 남자축구 국가대표팀 친선경기 우루과이전\n경 기일 :2026. 9. 28.(월) 20:00\n경기문의 : 대한축구협회 (041.538.6363)\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=09&day=28&site_div=worldcupst
+URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=09&day=28&site_div=worldcupst
+LOCATION:서울월드컵경기장
+END:VEVENT
+BEGIN:VEVENT
 UID:20261007-33aa9ce2a2a8fb8eddd83e3c3071e3fd@yourcalendar.com
 DTSTAMP:20250101T000000Z
 DTSTART;TZID=Asia/Seoul:20261007
@@ -884,13 +914,13 @@ URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=
 LOCATION:서울월드컵경기장
 END:VEVENT
 BEGIN:VEVENT
-UID:20261031-074282cfff5eccbf6a411bb2928c5d3d@yourcalendar.com
+UID:20261104-95dbff452efc9503f27d1ebf7adcaea5@yourcalendar.com
 DTSTAMP:20250101T000000Z
-DTSTART;TZID=Asia/Seoul:20261031
-DTEND;TZID=Asia/Seoul:20261031
-SUMMARY:2026WK리그
-DESCRIPTION:[2026WK리그]\n대 진 : 서울시청 vs 화천KSPO\n장 소 : 서울월드컵경기장 보조경기장\n시 간 : 19:00 ~ 21:00\n* 축구경기 관련 문의\n- 홈페이지 : 한국여자축구연맹(KWFF)\n- 대표번호 : 02-490-2890\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=10&day=31&site_div=worldcupst
-URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=10&day=31&site_div=worldcupst
+DTSTART;TZID=Asia/Seoul:20261104
+DTEND;TZID=Asia/Seoul:20261104
+SUMMARY:26/27 ACL2 FC서울 vs 비에트텔
+DESCRIPTION:경 기 명 : 26/27 ACL2 FC서울 vs 비에트텔\n경 기 일 : 2026. 11. 4.(수) 19:00\n경기문의 : FC서울 (02.306.5050)\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=04&site_div=worldcupst
+URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=04&site_div=worldcupst
 LOCATION:서울월드컵경기장
 END:VEVENT
 END:VCALENDAR
