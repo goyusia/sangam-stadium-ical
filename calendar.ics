@@ -894,13 +894,13 @@ URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=
 LOCATION:서울월드컵경기장
 END:VEVENT
 BEGIN:VEVENT
-UID:20261017-97323d1c55c57a778d452f08829500a7@yourcalendar.com
+UID:20261018-945630ca104d7737c11e23070f2b703b@yourcalendar.com
 DTSTAMP:20250101T000000Z
-DTSTART;TZID=Asia/Seoul:20261017
-DTEND;TZID=Asia/Seoul:20261017
+DTSTART;TZID=Asia/Seoul:20261018
+DTEND;TZID=Asia/Seoul:20261018
 SUMMARY:2026 K리그1
-DESCRIPTION:[2026 K리그1]\n대 진 : 서울 vs 김천(14:00)\n장 소 : 서울월드컵경기장\n■ 축구경기 관련 문의\n- 홈페이지 : http://www.fcseoul.com/\n- 대표번호 : 02-306-5050\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=10&day=17&site_div=worldcupst
-URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=10&day=17&site_div=worldcupst
+DESCRIPTION:[2026 K리그1]\n대 진 : 서울 vs 김천(16:30)\n장 소 : 서울월드컵경기장\n■ 축구경기 관련 문의\n- 홈페이지 : http://www.fcseoul.com/\n- 대표번호 : 02-306-5050\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=10&day=18&site_div=worldcupst
+URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=10&day=18&site_div=worldcupst
 LOCATION:서울월드컵경기장
 END:VEVENT
 BEGIN:VEVENT
