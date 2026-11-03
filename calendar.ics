@@ -914,6 +914,16 @@ URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=
 LOCATION:서울월드컵경기장
 END:VEVENT
 BEGIN:VEVENT
+UID:20261101-d2925dd5e272dfe37a5ea499a4d742c1@yourcalendar.com
+DTSTAMP:20250101T000000Z
+DTSTART;TZID=Asia/Seoul:20261101
+DTEND;TZID=Asia/Seoul:20261101
+SUMMARY:2026K리그1 파이널라운드
+DESCRIPTION:[2026K리그1 파이널라운드]\n대 진 : 서울 vs 인천 (16:30)\n장 소 : 서울월드컵경기장\n■ 축구경기 관련 문의\n- 홈페이지 : http://www.fcseoul.com/\n- 대표번호 : 02-306-5050\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=01&site_div=worldcupst
+URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=01&site_div=worldcupst
+LOCATION:서울월드컵경기장
+END:VEVENT
+BEGIN:VEVENT
 UID:20261104-95dbff452efc9503f27d1ebf7adcaea5@yourcalendar.com
 DTSTAMP:20250101T000000Z
 DTSTART;TZID=Asia/Seoul:20261104
@@ -921,6 +931,26 @@ DTEND;TZID=Asia/Seoul:20261104
 SUMMARY:26/27 ACL2 FC서울 vs 비에트텔
 DESCRIPTION:경 기 명 : 26/27 ACL2 FC서울 vs 비에트텔\n경 기 일 : 2026. 11. 4.(수) 19:00\n경기문의 : FC서울 (02.306.5050)\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=04&site_div=worldcupst
 URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=04&site_div=worldcupst
+LOCATION:서울월드컵경기장
+END:VEVENT
+BEGIN:VEVENT
+UID:20261108-e1eb6bc99b8394b8999b92fbbc373f9e@yourcalendar.com
+DTSTAMP:20250101T000000Z
+DTSTART;TZID=Asia/Seoul:20261108
+DTEND;TZID=Asia/Seoul:20261108
+SUMMARY:2026 K리그1 파이널라운드
+DESCRIPTION:[2026 K리그1 파이널라운드]\n대 진 : 서울 vs 울산(14:00)\n장 소 : 서울월드컵경기장\n■ 축구경기 관련 문의\n- 홈페이지 : http://www.fcseoul.com/\n- 대표번호 : 02-306-5050\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=08&site_div=worldcupst
+URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=08&site_div=worldcupst
+LOCATION:서울월드컵경기장
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-d633c4a5d827bbbd777698a4d9e7821d@yourcalendar.com
+DTSTAMP:20250101T000000Z
+DTSTART;TZID=Asia/Seoul:20261128
+DTEND;TZID=Asia/Seoul:20261128
+SUMMARY:2026 K리그1 파이널라운드
+DESCRIPTION:[2026 K리그1 파이널라운드]\n대 진 : 서울 vs 대전(14:00)\n장 소 : 서울월드컵경기장\n■ 축구경기 관련 문의\n- 홈페이지 : http://www.fcseoul.com/\n- 대표번호 : 02-306-5050\nhttps://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=28&site_div=worldcupst
+URL:https://www.sisul.or.kr/open_content/sub/schedule/detail.do?year=2026&month=11&day=28&site_div=worldcupst
 LOCATION:서울월드컵경기장
 END:VEVENT
 END:VCALENDAR
